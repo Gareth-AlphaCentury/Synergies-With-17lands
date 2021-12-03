@@ -4,7 +4,7 @@ This sheet has a companion video on youtuve: https://www.youtube.com/watch?v=TvR
 To use, download the file 'Synergies.ipynb', and place it in the same folder as your 17lands data. Then open it with the command 'jupyter notebook Synergies.ipynb'.
 
 You will need to install the following python libraries:
-pip install jupyter
-pip install numpy
-pip install matplotlib
-pip install pandas
+- pip install jupyter
+- pip install numpy
+- pip install matplotlib
+- pip install pandas
